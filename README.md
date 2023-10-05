@@ -15,6 +15,6 @@ It aims to provide a solution for students and staff to track the location of co
 This project is licenced under MIT Licence.
 
 *Authors:*
-1. <a href="">Aniket Johri</a>
+1. <a href="https://github.com/Error-404-NotFound">Aniket Johri</a>
 2. <a href="https://github.com/JaiminV22">Jaimin Viramgama</a>
 3. <a href="https://github.com/electro-coder">Sayan Kundu</a>
