@@ -33,12 +33,12 @@ The NavIC navigation system consists of a constellation of 7 satellites (1A, 1B,
 ## Applications and Usage of NavIC System:
 
 1. **_Navigation and Positioning:_**
-  - **Automotive Navigation:** NavIC provides accurate position information, which is crucial for navigation systems in vehicles.
-  - **Maritime Navigation:** Ships and boats can use NavIC for precise navigation in coastal and open waters.
-  - **Aviation:** Aircraft can utilize NavIC for navigation and landing procedures.
-  - **Personal Navigation Devices:** NavIC can be integrated into personal navigation devices, providing users with accurate location information for activities such as hiking, trekking, and outdoor adventures.
-  - **Emergency Services:** NavIC can be used by emergency services, such as ambulances and fire departments, to quickly and accurately navigate to incident locations. This aids in reducing response times during critical situations.
-  - **Asset Tracking:** Businesses can use NavIC to track the location of valuable assets, equipment, and inventory in real-time. This is especially important in industries like construction, where tracking equipment is crucial for project management.
+    - **Automotive Navigation:** NavIC provides accurate position information, which is crucial for navigation systems in vehicles.
+    - **Maritime Navigation:** Ships and boats can use NavIC for precise navigation in coastal and open waters.
+    - **Aviation:** Aircraft can utilize NavIC for navigation and landing procedures.
+    - **Personal Navigation Devices:** NavIC can be integrated into personal navigation devices, providing users with accurate location information for activities such as hiking, trekking, and outdoor adventures.
+    - **Emergency Services:** NavIC can be used by emergency services, such as ambulances and fire departments, to quickly and accurately navigate to incident locations. This aids in reducing response times during critical situations.
+    - **Asset Tracking:** Businesses can use NavIC to track the location of valuable assets, equipment, and inventory in real-time. This is especially important in industries like construction, where tracking equipment is crucial for project management.
   Thus, NavIC enables real-time tracking of vehicles, which is beneficial for logistics companies, transportation services, and fleet management. It helps optimize routes, monitor vehicle speed, and enhance overall operational efficiency.
 
 2. **_Military Applications:_**
