@@ -26,7 +26,7 @@ The NavIC navigation system consists of a constellation of 7 satellites (1A, 1B,
 
 - Hardware and Software Integration
 
-![Hardware ](https://github.com/Error-404-NotFound/NavIC-Institute-Bus-Tracking-System/blob/main/NAVIC%20documentation/Assets/hardware_software_connection.jpg?raw=true)
+![Hardware and Software Integreation](https://github.com/Error-404-NotFound/NavIC-Institute-Bus-Tracking-System/blob/main/NAVIC%20documentation/Assets/hardware_software_connection.jpg?raw=true)
 
 - The data transfer between the hardware and software and explain how everything flows in the project and it also explains the dataflow from hardware to software.
 
