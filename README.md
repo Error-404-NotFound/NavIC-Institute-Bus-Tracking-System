@@ -1,7 +1,5 @@
 # NavIC-Institute-Bus-Tracking-System
 
-## **Institute Bus Tracking System:**
-
 **_Introduction:_**
 
 This repository contains the code and documentation of our project on making a **Bus-Tracking System** for our college, **Indian Institute of Technology, Tirupati**.
