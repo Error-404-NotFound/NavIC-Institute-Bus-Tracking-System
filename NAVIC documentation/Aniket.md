@@ -167,5 +167,6 @@ The Navigation with Indian Constellation, abbreviated as NavIC, is vitally impor
 ## Reference
 
  - [ISRO NavIC Satellite Navigation Service](https://www.isro.gov.in/SatelliteNavigationServices.html)
+ - [IRNSS Program](https://www.isro.gov.in/IRNSS_Programme.html)
 
 
