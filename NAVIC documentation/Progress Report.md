@@ -17,3 +17,10 @@
       Team attended the hardware session in the morning where live demonstration of the gps system was shown.
       Team attended the software session in the afternoon where overall design was discussed and deadlines for tasks given.
       Internal discussion on the next steps and planning out architecture.
+* 11/10/23
+
+      Team shared the github repo and progress report to concerned authorities.
+* 12/10/23
+
+      Team took in-person feedback from some classmates.
+      Team made updates on the architectural design.
