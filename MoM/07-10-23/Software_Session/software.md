@@ -44,5 +44,5 @@
   * api integration
  *  databse management
 
-  by 14th : architecture of the web app
+  by 21th : architecture of the web app
  

@@ -3,8 +3,8 @@
 ## Milestone 1
 * 3/10/23
 
-       Team attended the first session / On-boarding session
-       First internal meeting for planning out milestones 1 and 2.
+      Team attended the first session / On-boarding session
+      First internal meeting for planning out milestones 1 and 2.
 * 4/10/23
   
       Created Current Repository
