@@ -1,0 +1,10 @@
+Login page ----first page , form on right side
+Dashboard: ---- second page
+       Graph,Stats,List of vehicle
+Map in monitoring page--- third page/tracking
+Report page--- fourth page
+
+Backend:
+     Server, Cloud storage
+     Device will be ported to the server and  data will be sent to the server
+       Write the logic for parsing the data and store it efficiently
