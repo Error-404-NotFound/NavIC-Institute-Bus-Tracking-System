@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Gloria+Hallelujah:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-gloria-hallelujah: "Gloria Hallelujah";
+  --font-montserrat: Montserrat;
+  --font-inter: Inter;
+  --font-mulish: Mulish;
+
+  /* font sizes */
+  --font-size-lg: 18px;
+  --font-size-53xl: 72px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-base: 16px;
+  --font-size-9xl: 28px;
+  --font-size-mini: 15px;
+  --font-size-17xl: 36px;
+  --font-size-10xl: 29px;
+  --font-size-25xl: 44px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-greenyellow: #a8ff35;
+  --color-black: #000;
+  --color-gray-100: #1e1e1e;
+  --color-gray-200: #080808;
+  --color-gray-300: rgba(0, 0, 0, 0.8);
+  --color-steelblue: #095f9d;
+
+  /* Gaps */
+  --gap-21xl: 40px;
+
+  /* border radiuses */
+  --br-21xl: 40px;
+  --br-9xs: 4px;
+  --br-base: 16px;
+  --br-16xl: 35px;
+  --br-lg: 18px;
+}

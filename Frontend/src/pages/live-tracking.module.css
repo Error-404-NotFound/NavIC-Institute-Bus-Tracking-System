@@ -1,0 +1,335 @@
+.liveTrackingChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 900px;
+}
+.mdibusIcon1 {
+  position: absolute;
+  top: 320px;
+  left: 901px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.liveTrackingItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 900px;
+}
+.image1Icon {
+  position: absolute;
+  top: 0px;
+  left: 287px;
+  width: 933px;
+  height: 900px;
+  object-fit: cover;
+  mix-blend-mode: lighten;
+}
+.main {
+  position: relative;
+  cursor: pointer;
+}
+.adminPanel {
+  position: relative;
+}
+.mainParent {
+  position: absolute;
+  top: calc(50% - 60px);
+  left: calc(50% - 200.95px);
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-family: var(--font-inter);
+}
+.busTracking {
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 123px;
+  height: 132px;
+}
+.mainMenuChild {
+  position: absolute;
+  top: -9px;
+  left: 1213px;
+  border-radius: 50%;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.welcomeuser {
+  position: absolute;
+  top: 37px;
+  left: 1175px;
+  font-size: var(--font-size-mini);
+}
+.mainMenu {
+  position: absolute;
+  top: 34px;
+  left: 60px;
+  width: 1309.9px;
+  height: 132px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.mapChild {
+  position: absolute;
+  top: 0px;
+  left: 10.8px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-greenyellow);
+  width: 643.2px;
+  height: 687px;
+}
+.image4Icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-16xl);
+  width: 654px;
+  height: 687px;
+  object-fit: cover;
+}
+.map {
+  position: absolute;
+  top: 154px;
+  left: 33px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.5);
+  width: 654px;
+  height: 687px;
+}
+.mdibus1 {
+  position: absolute;
+  top: 0px;
+  left: 278px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.menuDropChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-lg);
+  background-color: var(--color-greenyellow);
+  width: 278px;
+  height: 57px;
+}
+.selectBuses {
+  position: absolute;
+  top: 15px;
+  left: 52px;
+}
+.menuDropItem {
+  position: absolute;
+  top: 20px;
+  left: 239px;
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+  mix-blend-mode: darken;
+}
+.menuDrop {
+  position: absolute;
+  top: 154px;
+  left: 873px;
+  box-shadow: 0px 0px 7px #a8ff35;
+  width: 302px;
+  height: 57px;
+  font-size: 22px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 235px;
+  left: 873px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-greenyellow);
+  box-shadow: 0px 0px 7px #a8ff35;
+  width: 433px;
+  height: 549px;
+}
+.buses {
+  position: absolute;
+  top: 248px;
+  left: 925px;
+  font-weight: 500;
+}
+.bus1 {
+  position: absolute;
+  top: 0px;
+  left: 47px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.busesChild {
+  position: absolute;
+  top: 35.3px;
+  left: 0px;
+  width: 180px;
+  height: 0.7px;
+  object-fit: cover;
+}
+.vectorIcon6 {
+  position: absolute;
+  height: 52.78%;
+  width: 8.89%;
+  top: 13.89%;
+  right: 88.89%;
+  bottom: 33.33%;
+  left: 2.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.buses1 {
+  position: absolute;
+  top: 0px;
+  left: 4px;
+  width: 180px;
+  height: 36px;
+}
+.bus2 {
+  position: absolute;
+  top: 0px;
+  left: 47px;
+  font-weight: 500;
+}
+.buses2 {
+  position: absolute;
+  top: 55px;
+  left: 4px;
+  width: 180px;
+  height: 36px;
+}
+.bus3 {
+  position: absolute;
+  top: 0px;
+  left: 48px;
+  font-weight: 500;
+}
+.buses3 {
+  position: absolute;
+  top: 110px;
+  left: 4px;
+  width: 180px;
+  height: 36px;
+}
+.bus4 {
+  position: absolute;
+  top: 0px;
+  left: 46px;
+  font-weight: 500;
+}
+.buses4 {
+  position: absolute;
+  top: 165px;
+  left: 0px;
+  width: 180px;
+  height: 36px;
+}
+.busesParent {
+  position: absolute;
+  top: 297px;
+  left: 926px;
+  width: 184px;
+  height: 201px;
+  font-size: var(--font-size-5xl);
+}
+.liveTrackingChild1 {
+  position: absolute;
+  top: 282px;
+  left: 926px;
+  width: 229px;
+  height: 1px;
+  object-fit: cover;
+}
+.tempos1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 500;
+}
+.busesChild1 {
+  position: absolute;
+  top: 40.3px;
+  left: 0px;
+  width: 180px;
+  height: 0.7px;
+  object-fit: cover;
+}
+.vectorIcon10 {
+  position: absolute;
+  height: 46.34%;
+  width: 8.89%;
+  top: 24.39%;
+  right: 88.89%;
+  bottom: 29.27%;
+  left: 2.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.buses5 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 180px;
+  height: 41px;
+}
+.buses6 {
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  width: 180px;
+  height: 36px;
+}
+.busesGroup {
+  position: absolute;
+  top: 53px;
+  left: 0px;
+  width: 180px;
+  height: 96px;
+  font-size: var(--font-size-5xl);
+}
+.temposChild {
+  position: absolute;
+  top: 38px;
+  left: 0px;
+  width: 229px;
+  height: 1px;
+  object-fit: cover;
+}
+.tempos {
+  position: absolute;
+  top: 545px;
+  left: 925px;
+  width: 229px;
+  height: 149px;
+}
+.liveTracking {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

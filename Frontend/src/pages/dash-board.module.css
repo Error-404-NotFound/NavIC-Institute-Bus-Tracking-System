@@ -1,0 +1,121 @@
+.dashboardChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 900px;
+}
+.dashboardItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 900px;
+}
+.image1Icon {
+  position: absolute;
+  top: -34px;
+  left: 194px;
+  width: 933px;
+  height: 900px;
+  object-fit: cover;
+  mix-blend-mode: lighten;
+}
+.main {
+  position: relative;
+  cursor: pointer;
+}
+.adminPanel {
+  position: relative;
+}
+.mainParent {
+  position: absolute;
+  top: calc(50% - 60px);
+  left: calc(50% - 200.95px);
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-family: var(--font-inter);
+}
+.busTracking {
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 123px;
+  height: 132px;
+}
+.mainMenuChild {
+  position: absolute;
+  top: -9px;
+  left: 1213px;
+  border-radius: 50%;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.welcomeuser {
+  position: absolute;
+  top: 37px;
+  left: 1175px;
+  font-size: var(--font-size-mini);
+}
+.mainMenu {
+  position: absolute;
+  top: 34px;
+  left: 60px;
+  width: 1309.9px;
+  height: 132px;
+}
+.dashboardInner {
+  position: absolute;
+  top: 199px;
+  left: 80px;
+  border-radius: var(--br-16xl);
+  background-color: var(--color-greenyellow);
+  box-shadow: 0px 0px 7px #a8ff35;
+  width: 422px;
+  height: 588px;
+}
+.dashboard2 {
+  position: absolute;
+  top: 234px;
+  left: 163px;
+  font-size: var(--font-size-10xl);
+  color: var(--color-black);
+}
+.lineIcon {
+  position: absolute;
+  top: 274px;
+  left: 150px;
+  width: 296px;
+  height: 1px;
+  object-fit: cover;
+}
+.materialSymbolsmenuIcon1 {
+  position: absolute;
+  top: 240px;
+  left: 126px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.dashboard {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

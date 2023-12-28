@@ -1,0 +1,170 @@
+.userPageChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 900px;
+}
+.userPageItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 900px;
+}
+.image1Icon {
+  position: absolute;
+  top: -34px;
+  left: 194px;
+  width: 933px;
+  height: 900px;
+  object-fit: cover;
+  mix-blend-mode: lighten;
+}
+.main {
+  position: relative;
+  cursor: pointer;
+}
+.adminPanel {
+  position: relative;
+}
+.mainParent {
+  position: absolute;
+  top: calc(50% - 60px);
+  left: calc(50% - 200.95px);
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-family: var(--font-inter);
+}
+.busTracking {
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 123px;
+  height: 132px;
+}
+.mainMenuChild {
+  position: absolute;
+  top: -9px;
+  left: 1213px;
+  border-radius: 50%;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.welcomeuser {
+  position: absolute;
+  top: 37px;
+  left: 1175px;
+  font-size: var(--font-size-mini);
+}
+.mainMenu {
+  position: absolute;
+  top: 34px;
+  left: 60px;
+  width: 1309.9px;
+  height: 132px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.dashboard1 {
+  position: absolute;
+  top: 234px;
+  left: 163px;
+  font-size: var(--font-size-10xl);
+}
+.userPageInner {
+  position: absolute;
+  top: 274px;
+  left: 150px;
+  width: 296px;
+  height: 1px;
+  object-fit: cover;
+}
+.ellipseDiv {
+  position: absolute;
+  top: 181px;
+  left: 114px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 316px;
+  height: 316px;
+}
+.span {
+  font-size: 32px;
+}
+.name {
+  position: absolute;
+  top: 552px;
+  left: 143px;
+  color: var(--color-white);
+}
+.groupChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 63px;
+  background-color: var(--color-greenyellow);
+  width: 142px;
+  height: 26.2px;
+}
+.editProfile {
+  position: absolute;
+  top: 2.7px;
+  left: 24.6px;
+  display: inline-block;
+  width: 84.4px;
+  height: 43.3px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 614px;
+  left: 143px;
+  width: 142px;
+  height: 46px;
+  font-size: var(--font-size-mini);
+}
+.rectangleDiv {
+  position: absolute;
+  top: 181px;
+  left: 801px;
+  border-radius: 30px;
+  background-color: var(--color-greenyellow);
+  width: 386px;
+  height: 514px;
+}
+.mySchedule {
+  position: absolute;
+  top: 208px;
+  left: 873px;
+  font-weight: 600;
+}
+.lineDiv {
+  position: absolute;
+  top: 260.5px;
+  left: 838.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 313px;
+  height: 1px;
+}
+.userPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

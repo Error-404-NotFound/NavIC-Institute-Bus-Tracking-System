@@ -1,0 +1,279 @@
+.signupPageChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 900px;
+}
+.signupPageItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 900px;
+}
+.image1Icon {
+  position: absolute;
+  top: 0px;
+  left: 287px;
+  width: 933px;
+  height: 900px;
+  object-fit: cover;
+  mix-blend-mode: lighten;
+}
+.main {
+  position: relative;
+  cursor: pointer;
+}
+.adminPanel {
+  position: relative;
+}
+.mainParent {
+  position: absolute;
+  top: calc(50% - 60px);
+  left: calc(50% - 200.95px);
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-inter);
+}
+.busTracking {
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 123px;
+  height: 132px;
+}
+.signUp {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: calc(50% - 43.5px);
+  display: inline-block;
+  width: 88px;
+  height: 28px;
+}
+.signUpWrapper {
+  position: absolute;
+  top: calc(50% - 15.5px);
+  left: 0px;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 89px;
+  height: 31px;
+  overflow: hidden;
+}
+.logIn {
+  position: absolute;
+  top: calc(50% - 62px);
+  left: 1177px;
+  width: 89px;
+  height: 31px;
+}
+.frameChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: var(--br-base);
+  background-color: var(--color-greenyellow);
+  width: 350px;
+  height: 430px;
+}
+.mainMenuInner {
+  position: absolute;
+  top: 4px;
+  left: 1025px;
+  width: 350px;
+  height: 430px;
+}
+.signUp1 {
+  position: absolute;
+  top: 47px;
+  left: 1165px;
+  color: var(--color-gray-200);
+}
+.mainMenuChild {
+  position: absolute;
+  top: 90.5px;
+  left: 1055.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 281px;
+  height: 1px;
+}
+.enterYourCredentials {
+  margin: 0;
+}
+.welcomeToBusContainer {
+  position: absolute;
+  top: 103px;
+  left: 1056px;
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  width: 280px;
+}
+.mainMenu {
+  position: absolute;
+  top: 34px;
+  left: 60px;
+  width: 1309.9px;
+  height: 132px;
+}
+.signupPageInner {
+  position: absolute;
+  top: 292px;
+  left: 1116px;
+  background-color: var(--color-white);
+  width: 280px;
+  height: 51px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 212px;
+  left: 1116px;
+  background-color: var(--color-white);
+  width: 280px;
+  height: 51px;
+}
+.username {
+  position: absolute;
+  top: 227px;
+  left: 1177px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+}
+.navic {
+  position: absolute;
+  top: calc(50% - 79px);
+  left: calc(50% - 120px);
+  text-transform: uppercase;
+}
+.basedBusTracking1 {
+  position: absolute;
+  top: 70px;
+  left: calc(50% - 361px);
+}
+.text1 {
+  position: absolute;
+  top: calc(50% - 180.5px);
+  left: calc(50% - 361px);
+  width: 722px;
+  height: 158px;
+  font-size: var(--font-size-53xl);
+}
+.theIndianRegional1 {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: calc(50% - 361px);
+  text-align: center;
+  display: inline-block;
+  width: 722px;
+  height: 115px;
+}
+.moreAboutNavic {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 81.5px);
+}
+.cta {
+  position: absolute;
+  top: 295px;
+  left: 258px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-greenyellow);
+  box-shadow: 0px 0px 25px rgba(168, 255, 53, 0.25);
+  width: 195px;
+  height: 57px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.mdiarrowIcon1 {
+  position: absolute;
+  top: 328px;
+  left: 453px;
+  width: 24px;
+  height: 26px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.clickHere {
+  position: absolute;
+  top: 291px;
+  left: 462px;
+  font-family: var(--font-gloria-hallelujah);
+  text-align: center;
+  display: inline-block;
+  width: 60px;
+  height: 70px;
+}
+.mainText1 {
+  position: absolute;
+  top: 292px;
+  left: 359px;
+  width: 722px;
+  height: 361px;
+  font-size: var(--font-size-lg);
+}
+.signupPageChild1 {
+  position: absolute;
+  top: 223px;
+  left: 1128px;
+  width: 31px;
+  height: 30px;
+  object-fit: cover;
+}
+.signupPageChild2 {
+  position: absolute;
+  top: 303px;
+  left: 1128px;
+  width: 31px;
+  height: 30px;
+  object-fit: cover;
+}
+.password {
+  position: absolute;
+  top: 307px;
+  left: 1177px;
+  font-size: var(--font-size-lg);
+  color: var(--color-gray-300);
+}
+.forgotYourPassword1 {
+  position: absolute;
+  top: 368px;
+  left: 1145px;
+  color: var(--color-steelblue);
+}
+.existingUser {
+  position: absolute;
+  top: 402px;
+  left: 1145px;
+  color: var(--color-black);
+}
+.signIn {
+  position: absolute;
+  top: 404px;
+  left: 1305px;
+  font-size: var(--font-size-base);
+  color: var(--color-steelblue);
+  cursor: pointer;
+}
+.signupPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

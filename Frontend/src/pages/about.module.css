@@ -1,0 +1,179 @@
+.aboutChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 900px;
+}
+.aboutItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 900px;
+}
+.image1Icon {
+  position: absolute;
+  top: 0px;
+  left: 287px;
+  width: 933px;
+  height: 900px;
+  object-fit: cover;
+  mix-blend-mode: lighten;
+}
+.aboutNavic {
+  position: absolute;
+  top: 218px;
+  left: 113px;
+  font-size: var(--font-size-lg);
+}
+.main {
+  position: relative;
+  cursor: pointer;
+}
+.adminPanel {
+  position: relative;
+}
+.mainParent {
+  position: absolute;
+  top: calc(50% - 60px);
+  left: calc(50% - 200.95px);
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-family: var(--font-inter);
+}
+.busTracking {
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 123px;
+  height: 132px;
+}
+.mainMenuChild {
+  position: absolute;
+  top: -9px;
+  left: 1213px;
+  border-radius: 50%;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.welcomeuser {
+  position: absolute;
+  top: 37px;
+  left: 1175px;
+  font-size: var(--font-size-mini);
+}
+.mainMenu {
+  position: absolute;
+  top: 34px;
+  left: 60px;
+  width: 1309.9px;
+  height: 132px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-montserrat);
+}
+.aboutNavic1 {
+  position: absolute;
+  top: 139px;
+  left: 112px;
+}
+.aboutInner {
+  position: absolute;
+  top: 189.5px;
+  left: 112.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 343px;
+  height: 1px;
+}
+.aboutUsChild {
+  position: absolute;
+  top: 52.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 343px;
+  height: 1px;
+}
+.aboutUs {
+  position: absolute;
+  top: 454px;
+  left: 113px;
+  width: 342px;
+  height: 53px;
+}
+.contactUs {
+  position: absolute;
+  top: 0px;
+  left: 1px;
+}
+.aboutUs2 {
+  position: absolute;
+  top: 721px;
+  left: 114px;
+  width: 342px;
+  height: 53px;
+}
+.icoutlineFacebookIcon1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.vectorIcon2 {
+  position: absolute;
+  height: 75%;
+  width: 18%;
+  top: 16.67%;
+  right: 39%;
+  bottom: 8.33%;
+  left: 43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.vectorIcon3 {
+  position: absolute;
+  height: 83.33%;
+  width: 20%;
+  top: 8.33%;
+  right: 0%;
+  bottom: 8.33%;
+  left: 80%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.icoutlineFacebookParent {
+  position: absolute;
+  top: 802px;
+  left: 115px;
+  width: 100px;
+  height: 24px;
+}
+.about {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-25xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

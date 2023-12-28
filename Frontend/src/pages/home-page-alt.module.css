@@ -1,0 +1,195 @@
+.homepageAltChild {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-gray-100);
+  width: 1440px;
+  height: 900px;
+}
+.homepageAltItem {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: var(--color-black);
+  width: 1440px;
+  height: 900px;
+}
+.image1Icon {
+  position: absolute;
+  top: 0px;
+  left: 287px;
+  width: 933px;
+  height: 900px;
+  object-fit: cover;
+  mix-blend-mode: lighten;
+}
+.main {
+  position: relative;
+  cursor: pointer;
+}
+.adminPanel {
+  position: relative;
+}
+.mainParent {
+  position: absolute;
+  top: calc(50% - 60px);
+  left: calc(50% - 200.95px);
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-family: var(--font-inter);
+}
+.busTracking {
+  position: absolute;
+  top: -12px;
+  left: 20px;
+  font-size: var(--font-size-5xl);
+  display: inline-block;
+  width: 123px;
+  height: 132px;
+}
+.signIn {
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  cursor: pointer;
+}
+.signUp {
+  position: absolute;
+  top: calc(50% - 13.5px);
+  left: calc(50% - 43.5px);
+  display: inline-block;
+  width: 88px;
+  height: 28px;
+}
+.signUpWrapper {
+  position: absolute;
+  top: calc(50% - 15.5px);
+  left: 87px;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 89px;
+  height: 31px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.logIn {
+  position: absolute;
+  top: 4px;
+  left: 1090px;
+  width: 176px;
+  height: 31px;
+  font-size: var(--font-size-xl);
+}
+.image3Icon {
+  position: absolute;
+  top: calc(50% - 80px);
+  left: calc(50% - 366.95px);
+  width: 150px;
+  height: 83px;
+  object-fit: cover;
+  mix-blend-mode: difference;
+}
+.mainMenu {
+  position: absolute;
+  top: 34px;
+  left: 60px;
+  width: 1309.9px;
+  height: 132px;
+}
+.navic {
+  position: absolute;
+  top: calc(50% - 79px);
+  left: calc(50% - 120px);
+  text-transform: uppercase;
+}
+.basedBusTracking1 {
+  position: absolute;
+  top: 70px;
+  left: calc(50% - 361px);
+}
+.text1 {
+  position: absolute;
+  top: calc(50% - 180.5px);
+  left: calc(50% - 361px);
+  width: 722px;
+  height: 158px;
+  font-size: var(--font-size-53xl);
+}
+.theIndianRegional1 {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: calc(50% - 361px);
+  text-align: center;
+  display: inline-block;
+  width: 722px;
+  height: 115px;
+}
+.moreAboutNavic {
+  position: absolute;
+  top: calc(50% - 10.5px);
+  left: calc(50% - 81.5px);
+}
+.cta {
+  position: absolute;
+  top: 295px;
+  left: 258px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-greenyellow);
+  box-shadow: 0px 0px 25px rgba(168, 255, 53, 0.25);
+  width: 195px;
+  height: 57px;
+  overflow: hidden;
+  color: var(--color-black);
+}
+.mdiarrowIcon1 {
+  position: absolute;
+  top: 328px;
+  left: 453px;
+  width: 24px;
+  height: 26px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.clickHere {
+  position: absolute;
+  top: 291px;
+  left: 462px;
+  font-family: var(--font-gloria-hallelujah);
+  text-align: center;
+  display: inline-block;
+  width: 60px;
+  height: 70px;
+}
+.mainText1 {
+  position: absolute;
+  top: 292px;
+  left: 359px;
+  width: 722px;
+  height: 361px;
+}
+.image2Icon {
+  position: absolute;
+  top: calc(50% - 428px);
+  left: calc(50% - 531px);
+  width: 139px;
+  height: 81px;
+  object-fit: cover;
+  mix-blend-mode: hard-light;
+}
+.homepageAlt {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

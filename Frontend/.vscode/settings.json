@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project_name": "Bus Tracking_new",
+    "id": "657d99354e78e5c6a1de5519",
+    "framework": "react",
+    "typescript": false,
+    "path": "public/",
+    "componentsPath": "d:\\Design Codes\\src\\components",
+    "screensPath": "d:\\Design Codes\\src\\pages",
+    "styling": "CSS Modules",
+    "unit": "px",
+    "naming": "Kebab Case"
+  }
+}
